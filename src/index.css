@@ -1,0 +1,99 @@
+body{
+  background-color: rgb(164, 196, 210);
+  text-align: justify;
+  font-size: 25px;
+  border-radius: solid;
+  text-align: center;
+  
+}
+h1{
+    text-align: center;
+    color: rgba(10, 10, 9, 0.73);
+  }
+  table {
+    width: 40%; /* Ajuste a largura conforme necessário */
+    margin: 20px auto; /* Centraliza a tabela */
+    border-collapse: collapse;
+    width: 40%;
+    text-align: left;
+  }
+  
+  th, td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #518063;
+    color: rgba(0, 8, 156, 0.808);
+  }
+  
+  tr:nth-child(even) {
+    background-color: #e8dcdc;
+  }
+  
+  tr:hover {
+    background-color: #afafaf;
+  }
+
+  .bd {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  textarea,
+  select {
+    width: 80%; /* Diminuir a largura dos campos */
+    padding: 8px; /* Ajustar o padding */
+    margin-bottom: 10px;
+    border: 2px solid #4ba1a5;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 40%;
+    margin-top: 10px;
+    text-align: center;
+  }
+  input[type="number"] {
+    width: 50%; 
+    width: 80%; /* Diminuir a largura dos campos */
+    padding: 8px; /* Ajustar o padding */
+    margin-bottom: 10px;
+    border: 2px solid #4ba1a5;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 15%;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  
+  input[type="text"]:focus,
+  input[type="number"]:focus,
+  textarea:focus,
+  select:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  textarea {
+    width: 40%;
+    resize: vertical;
+    height: 38px; /* Diminuir ainda mais a altura do textarea */
+  }
+  
+  button {
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  
+  
