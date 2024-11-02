@@ -1,15 +1,22 @@
 # Tela Cadastro de Produto
-![image](https://github.com/user-attachments/assets/f615b422-fea6-4651-8354-32be6d71584c)
+![image](https://github.com/user-attachments/assets/f0347551-2bbc-4a1e-af8c-6ce0d26ec32d)
+
+
+# Tela Cadastrar Fonercedor
+![image](https://github.com/user-attachments/assets/33d41095-9b02-450a-8d1e-47dd7f644fff)
+
 
 
 # Tela Cadastro de Categoria
-![image](https://github.com/user-attachments/assets/a29f6b87-ee3e-439b-a899-dc1bc26d8b84)
+![image](https://github.com/user-attachments/assets/f97a224e-7b1c-4cde-882b-67d9b45d489e)
+
 
 
 # Tela Pesquisa de Produtos
-![image](https://github.com/user-attachments/assets/c7f00a02-149d-48e1-a86d-05f04a49afc2)
+![image](https://github.com/user-attachments/assets/03b77b61-918f-43c3-9bde-68fc2d31b7e4)
 
-# Tela Cadastrar Fonercedor
-![image](https://github.com/user-attachments/assets/5cf75caa-8773-4c17-8ce4-9b6e697f926d)
+
+
+
 
 
