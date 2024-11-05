@@ -6,7 +6,9 @@ Proposta para cadastro de produtos com os campos nome do produto, descrição, s
 # Tela Cadastrar Fonercedor
 ![image](https://github.com/user-attachments/assets/33d41095-9b02-450a-8d1e-47dd7f644fff)
 
-Tela serve para cadastrar o Fornecedor tanto de um produto vendido quanto para um serviço solicitado, com os campos cadastrar o nome do Fornecedor, o CNPJ da empresa, o Endereço onde se localiza, o Telefone e Email para contato e a Data de Cadastro.
+Tela serve para cadastrar o Fornecedor tanto de um produto vendido quanto para um serviço solicitado, 
+com os campos cadastrar o nome do Fornecedor, o CNPJ da empresa, o Endereço onde se localiza, 
+o Telefone e Email para contato e a Data de Cadastro.
 
 # Tela Cadastro de Categoria
 ![image](https://github.com/user-attachments/assets/f97a224e-7b1c-4cde-882b-67d9b45d489e)
